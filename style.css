@@ -1,0 +1,26 @@
+.trans{
+    height: 530px;
+    width: 800px;
+    margin-left: 250px;
+    margin-top: 40px;
+  }
+  #form-images{
+    background-image: linear-gradient(to right,deeppink,orange);
+    height: 530px;
+    width: 400px;
+    color: white;
+    text-align: center;
+  }
+   h3{
+    letter-spacing: 5px;
+    font-variant: small-caps;
+  }
+  form{
+    height: 530px;
+  }
+  form label{
+    font-weight: bold;
+  }
+  img{
+    margin-top: 170px;
+  }
